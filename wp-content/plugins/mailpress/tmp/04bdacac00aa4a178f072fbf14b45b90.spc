@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<geoPlugin>
+	<geoplugin_request>177.40.71.11</geoplugin_request>
+	<geoplugin_status>200</geoplugin_status>
+	<geoplugin_city>Umuarama</geoplugin_city>
+	<geoplugin_region>Paran&amp;aacute;</geoplugin_region>
+	<geoplugin_areaCode>0</geoplugin_areaCode>
+	<geoplugin_dmaCode>0</geoplugin_dmaCode>
+	<geoplugin_countryCode>BR</geoplugin_countryCode>
+	<geoplugin_countryName>Brazil</geoplugin_countryName>
+	<geoplugin_continentCode>SA</geoplugin_continentCode>
+	<geoplugin_latitude>-23.75</geoplugin_latitude>
+	<geoplugin_longitude>-53.333301544189</geoplugin_longitude>
+	<geoplugin_regionCode>18</geoplugin_regionCode>
+	<geoplugin_regionName>Paran&amp;aacute;</geoplugin_regionName>
+	<geoplugin_currencyCode>BRL</geoplugin_currencyCode>
+	<geoplugin_currencySymbol>&amp;#82;&amp;#36;</geoplugin_currencySymbol>
+	<geoplugin_currencyConverter>2.0205</geoplugin_currencyConverter>
+</geoPlugin>

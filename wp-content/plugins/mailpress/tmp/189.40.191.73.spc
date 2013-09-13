@@ -1,0 +1,1 @@
+a:4:{s:8:"provider";a:2:{s:2:"id";s:6:"hostip";s:6:"credit";s:23:"http://www.hostip.info/";}s:3:"geo";a:2:{s:3:"lat";s:8:"-23.5666";s:3:"lng";s:8:"-46.6333";}s:7:"country";s:2:"BR";s:4:"html";s:101:"<p style='margin:3px;'><b>City</b> : São Paulo</p><p style='margin:3px;'><b>Country</b> : BRAZIL</p>";}

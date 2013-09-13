@@ -1,0 +1,101 @@
+
+2013-09-11 01:54:28 000000 --  **** Start logging **** mp_mail *** level : 8191 **** (5.3) **** /wp-admin/admin.php?page=mailpress_write
+2013-09-11 01:54:28 000000 --  **** Purged log file **** /home2/maracatu/public_html/encontros/wp-content/plugins/mailpress/tmp/MP_Log_0_mp_mail_20130327.txt
+2013-09-11 01:54:28 000000 -- MAILPRESS [NOTICE] - :::: external recipient ::::
+2013-09-11 01:54:28 000000 -- MAILPRESS [NOTICE] - Missing template : >> default.php << Folder : /home2/maracatu/public_html/encontros/wp-content/plugins/mailpress/mp-content/themes/MaracatuMail/ 
+2013-09-11 01:54:28 000000 -- MAILPRESS [NOTICE] - Missing template : >> head.php << Folder : /home2/maracatu/public_html/encontros/wp-content/plugins/mailpress/mp-content/themes/MaracatuMail/ 
+2013-09-11 01:54:28 000000 -- PHP [E_NOTICE] 8 : Trying to get property of non-object in /home2/maracatu/public_html/encontros/wp-content/plugins/jetpack/modules/sharedaddy/sharing-service.php at line 487 
+2013-09-11 01:54:28 000000 --  
+
+ ------------------- start of mail -------------------   
+ From : Equipe Encontros <encontros@maracatu.org.br>  
+ To   : Organização <organizacaoencontros@gmail.com>  
+ Subject : Lançamento do Encontros 
+   ------------------- plaintext -------------------  
+ Encontros - 2013
+Maracatu Sem Fronteiras
+
+* ~~~~~~~~~~~~~~~~~~~~~~~ *
+! Lançamento do Encontros !
+* ~~~~~~~~~~~~~~~~~~~~~~~ *
+11 de setembro de 2013
+
+
+
+							this mail is brought to you by MailPress 
+
+ ------------------- text/html -------------------  
+ <body>
+		<div style="color:#000;font-family: Arial, san-serif;background:none repeat scroll 0 0 #f0f0f0;">
+			<div style="margin:0 auto;border:none;padding:0;width:700px;background:none repeat scroll 0 0 #fff;">
+				<table style="background: none;width:100%;height:60px;">	
+					<tr>
+						<td style="text-align:left;">
+							<img src='logo_encontros_385px.png' style="background:#78aa42;border:none;padding: 20px 165px 20px 150px;;" alt='img' />
+						</td>
+					</tr>					<tr>						<td style="padding:0;margin:0;border:none;background:#f39200;font-family: Arial, san-serif;height:45px;width:100%;color:#555;font-size:30px;text-align:right;">						</td>					</tr>
+				</table>
+				<div  style="margin:0;padding:20px 10px;border:0;text-align:left;width:100%;">
+					<div  style="margin-left:35px;padding:0;border:0;width:70%;float:left;line-height: 1.2em;font-size:0.9em;">
+<!-- end header --><p align="center">Salve, batuqueiros, amantes e responsáveis de grupos e Nações do Maracatu!</p>
+<p> Nós da equipe EncontroS 2013, temos o prazer de anunciar em primeira mão, o lançamento do Encontros 2013!</p>
+<p>Até o presente momento, estávamos estudando as condições para definir o local e os dias que o evento seria realizado. Tivemos alguns contratempos, mas nada que pudesse interferir a concretização do projeto.</p>
+<p>A grande iniciativa em receber o projeto vieram de pessoas, batuqueiros e os próprios moradores da cidade de Paraty-RJ. Por esse motivo, fortalecemos o contato, e com eles firmamos o evento deste ano.</p>
+<p>A parceria foi concretizada com o apoio e incentivo da Secretaria de Cultura do Município de Paraty e da Associação de Moradores do Quilombo Campinho da Independência. O Quilombo do Campinho e os Quilombolas residentes desta comunidade afro-rural abrirão seu espaço para nos receber.</p>
+<p>Estão muito felizes por estabelecer esta troca conosco, a comunidade local estará participando do evento livremente como contrapartida do espaço. Assim como vão nos ajudar na logística, refeições e apresentações.</p>
+<p>.:. No formato deste ano, a organização priorizou os valores locais ligados à cultura caiçara e quilombola da região, e dos laços dessa cidade encantada que já recebe batuqueiros anualmente de diversas regiões para o tradicional baque do réveillon. O que remete a semelhança das comunidades de Recife que recebem de braços abertos os batuqueiros do Brasil e do Mundo durante o carnaval.</p>
+<p>Diferente do ano passado, as acomodações ficarão por conta dos participantes. Temos indicações de campings e pousadas próximos à sede do evento, e os administradores da hospedagem já firmaram parceria conosco. Teremos a estrutura base do restaurante do Quilombo, mais duas tendas para os bate papos, vivências, apresentações e confraternizações. Além disso, precisamos contar com a contribuição de todos os participantes para cuidar do espaço e do ambiente que será gentilmente cedido para nós. Vamos organizar nos dias do evento, momentos de cuidados básicos com espaço. Por isso a importância dos grupos estarem cientes do local que iremos utilizar.</p>
+<p style="text-align: center;"> Apresentamos a estrutura EncontroS 2013:</p>
+<p style="text-align: center;"> - Cronograma -</p>
+<p> 13/09/2013 – Abertura de inscrições – Inscrições limitadas a 250 pessoas!</p>
+<p>25/10/2013 – Encerramento dos pagamentos de inscrições;</p>
+<p>02/11/2013 – Proposta de cada grupo fazer um Cortejo nas suas localidades para marcar a abertura do Encontros que tradicionalmente ocorria nesta data;</p>
+<p>Evento: 15, 16 e 17 de novembro de 2013 – Feriado da Proclamação da República –</p>
+<p>Local: Quilombo Campinho da Independência de Paraty. Estrada Rio Santos BR 101 que liga Paraty a Patrimônio no KM 584;</p>
+<p>Valores:</p>
+<p>- R$ 130,00 ( inscrições limitadas até 25/10) e estará incluso:</p>
+<p>–  Entrada – Camiseta – Programação – Adesivo – Alimentação</p>
+<p>Sendo a alimentação: almoço e janta dia 15,  almoço e janta dia 16 e almoço do dia 17.</p>
+<p>Convidados:</p>
+<p>Mestre Afonso Aguiar Filho do Maracatu Leão Coroado (confirmado)</p>
+<p>Mestre Gilmar Santana do Maracatu Estrela Brilhante de Igarassu (confirmado)</p>
+<p>Mestre Toinho do Maracatu Encanto da Alegria (à confirmar)</p>
+<p>Rei Clovis do Maracatu Encanto da Alegria e batuqueiros das Nações (à confirmar)</p>
+<p>Gostaríamos muito de trazer outros convidados, só que neste ano teremos que limitar o número de participantes por conta da estrutura não suportar um grande contingente, limitando deste modo nosso orçamento. Caso algum grupo queira realizar parcerias para trazer outros convidados e abater no valor das inscrições, será muito bem vindo!</p>
+<p>Estamos contatando Nações e Batuqueiros de Pernambuco para que participem, temos a condição de oferecer à eles hospedagem e alimentação.</p>
+<p>Ressaltamos que não será de responsabilidade da equipe da Organização acomodar os participantes. Iremos anunciar as indicações de locais parceiros para que cada grupo/participante reserva sua hospedagem. Portanto, quanto mais rápido decidir participar, garantirá o melhor local para se hospedar!</p>
+<p>Foi dada a largada! Temos 66 dias para o evento. Desejamos a participação de todos nessa empreitada que pretende unir e difundir nosso amado maracatu de Baque Virado!</p>
+<p>Maiores esclarecimentos estamos à disposição.</p>
+<!-- start footer -->
+				</div>
+			</div>
+			<div style='clear:both;'></div>
+			<table style="margin:0;border-top:1px solid #DEDEDE;width:100%;">
+				<tr>	
+					<td style="font-family: Arial, san-serif;color:#2583AD;    padding: 10px 20px;font-size:10px;">
+						<b>
+							Enviado por encontros.maracatu.org.br
+						</b>
+					</td>
+					<td style="font-family: Arial, san-serif;color:#8c8c8c;font-size:12px;padding: 10px 20px;text-align:right;">
+						<b>
+							com MailPress
+						</b>
+					</td>	
+				</tr>
+			</table>
+		</div>
+		</div>
+	</body>
+</html> 
+
+ ------------------ end of mail ------------------  
+
+
+2013-09-11 01:54:29 000000 -- MAILPRESS [NOTICE] - Image found : wp-content/plugins/mailpress/mp-content/themes/MaracatuMail/images/logo_encontros_385px.png
+2013-09-11 01:54:29 000000 -- MAILPRESS [NOTICE] - Disconnecting from maracatu_encontros (MP_Mail)
+2013-09-11 01:54:29 000000 -- MAILPRESS [NOTICE] - Disconnected (MP_Mail)
+2013-09-11 01:54:29 000000 -- MAILPRESS [NOTICE] - Connecting to maracatu_encontros (MP_Mail)
+2013-09-11 01:54:29 000000 -- MAILPRESS [NOTICE] - Connected (MP_Mail)
+2013-09-11 01:54:29 000000 -- MAILPRESS [NOTICE] - :::: MAIL SAVED ::::
+2013-09-11 01:54:29 000000 --  **** End   logging **** mp_mail *** level : 8191 **** status : TRUE 

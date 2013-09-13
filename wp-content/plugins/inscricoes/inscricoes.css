@@ -1,0 +1,28 @@
+#pedido{
+	
+	}
+
+#pedido h1{
+	
+	}
+
+#pedido h2{
+	margin:20px 0 0 0;
+	}
+	
+#pedido .tabela-1{
+	border:1px solid #ccc;
+	width:100%;
+	border-collapse:separate;
+	border-spacing:4px;
+	}
+	
+#pedido .tabela-1 th{
+	text-align:right;
+	width:200px;
+	font-weight:normal;
+	}	
+	
+#pedido .tabela-1 td{
+	font-weight:bold;
+	}	

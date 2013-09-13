@@ -1,0 +1,38 @@
+small
+{
+	color 					: #888888;
+	font-weight 			: normal;
+	font-size 				: 13px;
+}
+
+p.submit
+{
+	margin 					: 15px 0 0;
+	padding 				: 5px 0 0 230px;
+	max-width 				: 302px;
+	border-top 				: 1px solid #dddddd;
+}
+
+ul.category_list
+{
+	margin-top 				: 0;
+	width 					: 300px;
+}
+
+ul.category_list li
+{
+	border-bottom 			: 1px solid #f0f0f0;
+	overflow 				: hidden;
+	width 					: 100%;
+}
+
+ul.category_list .category_name
+{
+	float 					: left;
+}
+
+ul.category_list .post_count
+{
+	float 					: right;
+	color 					: #888888;
+}

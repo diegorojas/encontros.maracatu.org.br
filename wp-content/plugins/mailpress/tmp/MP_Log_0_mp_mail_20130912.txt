@@ -1,0 +1,301 @@
+
+2013-09-12 15:48:07 000000 --  **** Start logging **** mp_mail *** level : 8191 **** (5.3) **** /wp-admin/comment.php?c=59&action=approvecomment&_wpnonce=a963efcc1e
+2013-09-12 15:48:07 000000 --  **** Purged log file **** /home2/maracatu/public_html/encontros/wp-content/plugins/mailpress/tmp/MP_Log_0_mp_mail_20130409.txt
+2013-09-12 15:48:07 000000 -- MAILPRESS [NOTICE] - :::: external recipient ::::
+2013-09-12 15:48:07 000000 -- MAILPRESS [NOTICE] - Missing template : >> default.php << Folder : /home2/maracatu/public_html/encontros/wp-content/plugins/mailpress/mp-content/themes/MaracatuMail/ 
+2013-09-12 15:48:07 000000 -- MAILPRESS [NOTICE] - Missing template : >> head.php << Folder : /home2/maracatu/public_html/encontros/wp-content/plugins/mailpress/mp-content/themes/MaracatuMail/ 
+2013-09-12 15:48:07 000000 -- PHP [E_NOTICE] 8 : Trying to get property of non-object in /home2/maracatu/public_html/encontros/wp-content/plugins/jetpack/modules/sharedaddy/sharing-service.php at line 487 
+2013-09-12 15:48:07 000000 -- PHP [E_NOTICE] 8 : Trying to get property of non-object in /home2/maracatu/public_html/encontros/wp-content/plugins/jetpack/modules/sharedaddy/sharing-service.php at line 487 
+2013-09-12 15:48:07 000000 --  
+
+ ------------------- start of mail -------------------   
+ From : Equipe Encontros <encontros@maracatu.org.br>  
+ To   : naomi <naomimundy@hotmail.com>  
+ Subject : [Encontros - 2013] Comentário: "Maracatu Baque da Mata - Nova Iguaçu | RJ" 
+   ------------------- plaintext -------------------  
+ Encontros - 2013
+Maracatu Sem Fronteiras
+
+* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ *
+! [Encontros - 2013] Comentário: "Maracatu Baque da Mata - Nova Iguaçu | RJ" !
+* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ *
+12 de setembro de 2013
+
+
+
+	Novo comentário sobre seu post “Maracatu Baque da Mata – Nova Iguaçu RJ” 
+Autor: Olivia (IP: 186.221.75.116 , badd4b74.virtua.com.br)
+Email: oliviarangel@msn.com
+URL : 
+Whois : http://ws.arin.net/cgi-bin/whois.pl?queryinput=186.221.75.116
+Comentário: 
+
+	Sou professora de uma escola municipal em Nova Iguaçu, estamos planejando uma ação a ser apresentada na Conferência do Meio Ambiente em Tinguá. Tivemos a ideia de mobilizar as crianças.e os responsáveis em um mutirão. Vocês poderiam nos auxiliar? Já que o trabalho de vocês é difundir a culltura local aliando a arte às questões sociais e ambientais da região? 
+
+	Você pode ver todos os comentários sobre esse post aqui:
+http://encontros.maracatu.org.br/grupos/maracatu-baque-da-mata-nova-iguacu-rj/#comments 
+
+	Link Permanente: http://encontros.maracatu.org.br/grupos/maracatu-baque-da-mata-nova-iguacu-rj/#comments
+Mover para a Lixeira: http://encontros.maracatu.org.br/wp-admin/comment.php?action=trash&c=59
+Marcar como spam: http://encontros.maracatu.org.br/wp-admin/comment.php?action=spam&c=59 
+
+							this mail is brought to you by MailPress 
+
+ ------------------- text/html -------------------  
+ <body>
+		<div style="color:#000;font-family: Arial, san-serif;background:none repeat scroll 0 0 #f0f0f0;">
+			<div style="margin:0 auto;border:none;padding:0;width:700px;background:none repeat scroll 0 0 #fff;">
+				<table style="background: none;width:100%;height:60px;">	
+					<tr>
+						<td style="text-align:left;">
+							<img src='logo_encontros_385px.png' style="background:#78aa42;border:none;padding: 20px 165px 20px 150px;;" alt='img' />
+						</td>
+					</tr>					<tr>						<td style="padding:0;margin:0;border:none;background:#f39200;font-family: Arial, san-serif;height:45px;width:100%;color:#555;font-size:30px;text-align:right;">						</td>					</tr>
+				</table>
+				<div  style="margin:0;padding:20px 10px;border:0;text-align:left;width:100%;">
+					<div  style="margin-left:35px;padding:0;border:0;width:70%;float:left;line-height: 1.2em;font-size:0.9em;">
+<!-- end header --><p>Novo comentário sobre seu post &#8220;Maracatu Baque da Mata &#8211; Nova Iguaçu | RJ&#8221; <br />
+Autor: Olivia (IP: 186.221.75.116 , badd4b74.virtua.com.br)<br />
+Email: oliviarangel@msn.com<br />
+URL    : <br />
+Whois  : http://ws.arin.net/cgi-bin/whois.pl?queryinput=186.221.75.116<br />
+Comentário:</p>
+<p>Sou professora de uma escola municipal em Nova Iguaçu, estamos planejando uma ação a ser apresentada na Conferência do Meio Ambiente em Tinguá.  Tivemos a ideia de mobilizar as crianças.e os responsáveis em um mutirão. Vocês poderiam nos auxiliar?  Já que o trabalho de vocês é difundir a culltura local  aliando a arte às questões sociais e ambientais da região?</p>
+<p>Você pode ver todos os comentários sobre esse post aqui:<br />
+http://encontros.maracatu.org.br/grupos/maracatu-baque-da-mata-nova-iguacu-rj/#comments</p>
+<p>Link Permanente: http://encontros.maracatu.org.br/grupos/maracatu-baque-da-mata-nova-iguacu-rj/#comments<br />
+Mover para a Lixeira: http://encontros.maracatu.org.br/wp-admin/comment.php?action=trash&#038;c=59<br />
+Marcar como spam: http://encontros.maracatu.org.br/wp-admin/comment.php?action=spam&#038;c=59</p>
+<!-- start footer -->
+				</div>
+			</div>
+			<div style='clear:both;'></div>
+			<table style="margin:0;border-top:1px solid #DEDEDE;width:100%;">
+				<tr>	
+					<td style="font-family: Arial, san-serif;color:#2583AD;    padding: 10px 20px;font-size:10px;">
+						<b>
+							Enviado por encontros.maracatu.org.br
+						</b>
+					</td>
+					<td style="font-family: Arial, san-serif;color:#8c8c8c;font-size:12px;padding: 10px 20px;text-align:right;">
+						<b>
+							com MailPress
+						</b>
+					</td>	
+				</tr>
+			</table>
+		</div>
+		</div>
+	</body>
+</html> 
+
+ ------------------ end of mail ------------------  
+
+
+2013-09-12 15:48:07 000000 -- MAILPRESS [NOTICE] - Image found : wp-content/plugins/mailpress/mp-content/themes/MaracatuMail/images/logo_encontros_385px.png
+2013-09-12 15:48:07 000000 -- MAILPRESS [NOTICE] - Disconnecting from maracatu_encontros (MP_Mail)
+2013-09-12 15:48:07 000000 -- MAILPRESS [NOTICE] - Disconnected (MP_Mail)
+2013-09-12 15:48:09 000000 -- MAILPRESS [NOTICE] - Connecting to maracatu_encontros (MP_Mail)
+2013-09-12 15:48:09 000000 -- MAILPRESS [NOTICE] - Connected (MP_Mail)
+2013-09-12 15:48:09 000000 -- MAILPRESS [NOTICE] - :::: MAIL SAVED ::::
+2013-09-12 15:48:09 000000 --  **** End   logging **** mp_mail *** level : 8191 **** status : TRUE 
+
+2013-09-12 15:48:44 000000 --  **** Start logging **** mp_mail *** level : 8191 **** (5.3) **** /wp-admin/comment.php?c=58&action=approvecomment&_wpnonce=ced90da2c4
+2013-09-12 15:48:44 000000 -- MAILPRESS [NOTICE] - :::: external recipient ::::
+2013-09-12 15:48:44 000000 -- MAILPRESS [NOTICE] - Missing template : >> default.php << Folder : /home2/maracatu/public_html/encontros/wp-content/plugins/mailpress/mp-content/themes/MaracatuMail/ 
+2013-09-12 15:48:44 000000 -- MAILPRESS [NOTICE] - Missing template : >> head.php << Folder : /home2/maracatu/public_html/encontros/wp-content/plugins/mailpress/mp-content/themes/MaracatuMail/ 
+2013-09-12 15:48:44 000000 -- PHP [E_NOTICE] 8 : Trying to get property of non-object in /home2/maracatu/public_html/encontros/wp-content/plugins/jetpack/modules/sharedaddy/sharing-service.php at line 487 
+2013-09-12 15:48:44 000000 -- PHP [E_NOTICE] 8 : Trying to get property of non-object in /home2/maracatu/public_html/encontros/wp-content/plugins/jetpack/modules/sharedaddy/sharing-service.php at line 487 
+2013-09-12 15:48:44 000000 --  
+
+ ------------------- start of mail -------------------   
+ From : Equipe Encontros <encontros@maracatu.org.br>  
+ To   : encontros <organizacao.encontros2012.mbv@gmail.com>  
+ Subject : [Encontros - 2013] Comentário: "Construindo o Encontros 2013" 
+   ------------------- plaintext -------------------  
+ Encontros - 2013
+Maracatu Sem Fronteiras
+
+* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ *
+! [Encontros - 2013] Comentário: "Construindo o Encontros 2013" !
+* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ *
+12 de setembro de 2013
+
+
+
+	Novo comentário sobre seu post “Construindo o Encontros 2013″ 
+Autor: tatiane (IP: 187.59.157.18 , 187.59.157.18.static.host.gvt.net.br)
+Email: tati_pratti@hotmail.com
+URL : 
+Whois : http://ws.arin.net/cgi-bin/whois.pl?queryinput=187.59.157.18
+Comentário: 
+
+	Este encontro é extremamente importante! O maravilhoso essencial é ir para o recife, depois, ter os batuqueiros das nações em nossas cidades fortalecendo e ensinando nosso grupos e logo, unir os grupos para fortacer o maracatu!! Nós que não somos de lá precisamos nos conhecer, juntar nossas forças , aprender com os mestres de otras nações, ver os outros grupos tocarem… é lindo!!! Apesar de haver um tratamente estranho (e até infantil) entre batuqueiros de gurpos de diferentes nações, acredito que este é o momento para amadurecermos nossas relações pois somos todos maracatu!!!! A unica critica que tenho é com os horários… típico de batuqueiros atrasar maaaas podemos fazer diferente pq os que estão no final do cronograma acabam sendo prejudicados!!! O maior erro que aconteceu ano passado foi a falta de importância para a apresentação do Baque Mulher!!!!! Elas estavam todas prontas, de uniforme, esperando o momento; e nós que iamos assistir tb esperando….. Isso é um reflexo do machismo na sociedade e consequentemente na organização do Encontros!! A luta da mulher deve ser construida e valorizada tb pelos homens, precisamos deste momento!! Assim como o Maracatu, Baque Mulher é resistência!!! Asè 
+
+	Você pode ver todos os comentários sobre esse post aqui:
+http://encontros.maracatu.org.br/construindo-o-encontros-2013/#comments 
+
+	Link Permanente: http://encontros.maracatu.org.br/construindo-o-encontros-2013/#comments
+Mover para a Lixeira: http://encontros.maracatu.org.br/wp-admin/comment.php?action=trash&c=58
+Marcar como spam: http://encontros.maracatu.org.br/wp-admin/comment.php?action=spam&c=58 
+
+							this mail is brought to you by MailPress 
+
+ ------------------- text/html -------------------  
+ <body>
+		<div style="color:#000;font-family: Arial, san-serif;background:none repeat scroll 0 0 #f0f0f0;">
+			<div style="margin:0 auto;border:none;padding:0;width:700px;background:none repeat scroll 0 0 #fff;">
+				<table style="background: none;width:100%;height:60px;">	
+					<tr>
+						<td style="text-align:left;">
+							<img src='logo_encontros_385px.png' style="background:#78aa42;border:none;padding: 20px 165px 20px 150px;;" alt='img' />
+						</td>
+					</tr>					<tr>						<td style="padding:0;margin:0;border:none;background:#f39200;font-family: Arial, san-serif;height:45px;width:100%;color:#555;font-size:30px;text-align:right;">						</td>					</tr>
+				</table>
+				<div  style="margin:0;padding:20px 10px;border:0;text-align:left;width:100%;">
+					<div  style="margin-left:35px;padding:0;border:0;width:70%;float:left;line-height: 1.2em;font-size:0.9em;">
+<!-- end header --><p>Novo comentário sobre seu post &#8220;Construindo o Encontros 2013&#8243; <br />
+Autor: tatiane (IP: 187.59.157.18 , 187.59.157.18.static.host.gvt.net.br)<br />
+Email: tati_pratti@hotmail.com<br />
+URL    : <br />
+Whois  : http://ws.arin.net/cgi-bin/whois.pl?queryinput=187.59.157.18<br />
+Comentário:</p>
+<p>Este encontro é extremamente importante! O maravilhoso essencial é ir para o recife, depois, ter os batuqueiros das nações em nossas cidades fortalecendo e ensinando nosso grupos e logo, unir os grupos para fortacer o maracatu!! Nós que não somos de lá precisamos nos conhecer, juntar nossas forças , aprender com os mestres de otras nações, ver os outros grupos tocarem&#8230; é lindo!!! Apesar de haver um tratamente estranho (e até infantil) entre batuqueiros de gurpos de diferentes nações, acredito que este é o momento para amadurecermos nossas relações pois somos todos maracatu!!!! A unica critica que tenho é com os horários&#8230; típico de batuqueiros atrasar maaaas podemos fazer diferente pq os que estão no final do cronograma acabam sendo prejudicados!!! O maior erro que aconteceu ano passado foi a falta de importância para a apresentação do Baque Mulher!!!!! Elas estavam todas prontas, de uniforme, esperando o momento; e nós que iamos assistir tb esperando&#8230;.. Isso é um reflexo do machismo na sociedade e consequentemente na organização do Encontros!! A luta da mulher deve ser construida e valorizada tb pelos homens, precisamos deste momento!! Assim como o Maracatu, Baque Mulher é resistência!!! Asè</p>
+<p>Você pode ver todos os comentários sobre esse post aqui:<br />
+http://encontros.maracatu.org.br/construindo-o-encontros-2013/#comments</p>
+<p>Link Permanente: http://encontros.maracatu.org.br/construindo-o-encontros-2013/#comments<br />
+Mover para a Lixeira: http://encontros.maracatu.org.br/wp-admin/comment.php?action=trash&#038;c=58<br />
+Marcar como spam: http://encontros.maracatu.org.br/wp-admin/comment.php?action=spam&#038;c=58</p>
+<!-- start footer -->
+				</div>
+			</div>
+			<div style='clear:both;'></div>
+			<table style="margin:0;border-top:1px solid #DEDEDE;width:100%;">
+				<tr>	
+					<td style="font-family: Arial, san-serif;color:#2583AD;    padding: 10px 20px;font-size:10px;">
+						<b>
+							Enviado por encontros.maracatu.org.br
+						</b>
+					</td>
+					<td style="font-family: Arial, san-serif;color:#8c8c8c;font-size:12px;padding: 10px 20px;text-align:right;">
+						<b>
+							com MailPress
+						</b>
+					</td>	
+				</tr>
+			</table>
+		</div>
+		</div>
+	</body>
+</html> 
+
+ ------------------ end of mail ------------------  
+
+
+2013-09-12 15:48:44 000000 -- MAILPRESS [NOTICE] - Image found : wp-content/plugins/mailpress/mp-content/themes/MaracatuMail/images/logo_encontros_385px.png
+2013-09-12 15:48:44 000000 -- MAILPRESS [NOTICE] - Disconnecting from maracatu_encontros (MP_Mail)
+2013-09-12 15:48:44 000000 -- MAILPRESS [NOTICE] - Disconnected (MP_Mail)
+2013-09-12 15:48:45 000000 -- MAILPRESS [NOTICE] - Connecting to maracatu_encontros (MP_Mail)
+2013-09-12 15:48:45 000000 -- MAILPRESS [NOTICE] - Connected (MP_Mail)
+2013-09-12 15:48:45 000000 -- MAILPRESS [NOTICE] - :::: MAIL SAVED ::::
+2013-09-12 15:48:45 000000 --  **** End   logging **** mp_mail *** level : 8191 **** status : TRUE 
+
+2013-09-12 15:48:56 000000 --  **** Start logging **** mp_mail *** level : 8191 **** (5.3) **** /wp-admin/comment.php?c=57&action=approvecomment&_wpnonce=5f467110ca
+2013-09-12 15:48:56 000000 -- MAILPRESS [NOTICE] - :::: external recipient ::::
+2013-09-12 15:48:56 000000 -- MAILPRESS [NOTICE] - Missing template : >> default.php << Folder : /home2/maracatu/public_html/encontros/wp-content/plugins/mailpress/mp-content/themes/MaracatuMail/ 
+2013-09-12 15:48:56 000000 -- MAILPRESS [NOTICE] - Missing template : >> head.php << Folder : /home2/maracatu/public_html/encontros/wp-content/plugins/mailpress/mp-content/themes/MaracatuMail/ 
+2013-09-12 15:48:56 000000 -- PHP [E_NOTICE] 8 : Trying to get property of non-object in /home2/maracatu/public_html/encontros/wp-content/plugins/jetpack/modules/sharedaddy/sharing-service.php at line 487 
+2013-09-12 15:48:56 000000 -- PHP [E_NOTICE] 8 : Trying to get property of non-object in /home2/maracatu/public_html/encontros/wp-content/plugins/jetpack/modules/sharedaddy/sharing-service.php at line 487 
+2013-09-12 15:48:56 000000 --  
+
+ ------------------- start of mail -------------------   
+ From : Equipe Encontros <encontros@maracatu.org.br>  
+ To   : encontros <organizacao.encontros2012.mbv@gmail.com>  
+ Subject : [Encontros - 2013] Comentário: "Construindo o Encontros 2013" 
+   ------------------- plaintext -------------------  
+ Encontros - 2013
+Maracatu Sem Fronteiras
+
+* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ *
+! [Encontros - 2013] Comentário: "Construindo o Encontros 2013" !
+* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ *
+12 de setembro de 2013
+
+
+
+	Novo comentário sobre seu post “Construindo o Encontros 2013″ 
+Autor: maui zanon (IP: 186.246.152.152 , 186-246-152-152.user3g.veloxzone.com.br)
+Email: mauizanon@yahoo.com.br
+URL : 
+Whois : http://ws.arin.net/cgi-bin/whois.pl?queryinput=186.246.152.152
+Comentário: 
+
+	Acho que a água neste ano precisa ser mais barata. 
+
+	Você pode ver todos os comentários sobre esse post aqui:
+http://encontros.maracatu.org.br/construindo-o-encontros-2013/#comments 
+
+	Link Permanente: http://encontros.maracatu.org.br/construindo-o-encontros-2013/#comments
+Mover para a Lixeira: http://encontros.maracatu.org.br/wp-admin/comment.php?action=trash&c=57
+Marcar como spam: http://encontros.maracatu.org.br/wp-admin/comment.php?action=spam&c=57 
+
+							this mail is brought to you by MailPress 
+
+ ------------------- text/html -------------------  
+ <body>
+		<div style="color:#000;font-family: Arial, san-serif;background:none repeat scroll 0 0 #f0f0f0;">
+			<div style="margin:0 auto;border:none;padding:0;width:700px;background:none repeat scroll 0 0 #fff;">
+				<table style="background: none;width:100%;height:60px;">	
+					<tr>
+						<td style="text-align:left;">
+							<img src='logo_encontros_385px.png' style="background:#78aa42;border:none;padding: 20px 165px 20px 150px;;" alt='img' />
+						</td>
+					</tr>					<tr>						<td style="padding:0;margin:0;border:none;background:#f39200;font-family: Arial, san-serif;height:45px;width:100%;color:#555;font-size:30px;text-align:right;">						</td>					</tr>
+				</table>
+				<div  style="margin:0;padding:20px 10px;border:0;text-align:left;width:100%;">
+					<div  style="margin-left:35px;padding:0;border:0;width:70%;float:left;line-height: 1.2em;font-size:0.9em;">
+<!-- end header --><p>Novo comentário sobre seu post &#8220;Construindo o Encontros 2013&#8243; <br />
+Autor: maui zanon (IP: 186.246.152.152 , 186-246-152-152.user3g.veloxzone.com.br)<br />
+Email: mauizanon@yahoo.com.br<br />
+URL    : <br />
+Whois  : http://ws.arin.net/cgi-bin/whois.pl?queryinput=186.246.152.152<br />
+Comentário:</p>
+<p>Acho que a água neste ano precisa ser mais barata.</p>
+<p>Você pode ver todos os comentários sobre esse post aqui:<br />
+http://encontros.maracatu.org.br/construindo-o-encontros-2013/#comments</p>
+<p>Link Permanente: http://encontros.maracatu.org.br/construindo-o-encontros-2013/#comments<br />
+Mover para a Lixeira: http://encontros.maracatu.org.br/wp-admin/comment.php?action=trash&#038;c=57<br />
+Marcar como spam: http://encontros.maracatu.org.br/wp-admin/comment.php?action=spam&#038;c=57</p>
+<!-- start footer -->
+				</div>
+			</div>
+			<div style='clear:both;'></div>
+			<table style="margin:0;border-top:1px solid #DEDEDE;width:100%;">
+				<tr>	
+					<td style="font-family: Arial, san-serif;color:#2583AD;    padding: 10px 20px;font-size:10px;">
+						<b>
+							Enviado por encontros.maracatu.org.br
+						</b>
+					</td>
+					<td style="font-family: Arial, san-serif;color:#8c8c8c;font-size:12px;padding: 10px 20px;text-align:right;">
+						<b>
+							com MailPress
+						</b>
+					</td>	
+				</tr>
+			</table>
+		</div>
+		</div>
+	</body>
+</html> 
+
+ ------------------ end of mail ------------------  
+
+
+2013-09-12 15:48:56 000000 -- MAILPRESS [NOTICE] - Image found : wp-content/plugins/mailpress/mp-content/themes/MaracatuMail/images/logo_encontros_385px.png
+2013-09-12 15:48:56 000000 -- MAILPRESS [NOTICE] - Disconnecting from maracatu_encontros (MP_Mail)
+2013-09-12 15:48:56 000000 -- MAILPRESS [NOTICE] - Disconnected (MP_Mail)
+2013-09-12 15:48:57 000000 -- MAILPRESS [NOTICE] - Connecting to maracatu_encontros (MP_Mail)
+2013-09-12 15:48:57 000000 -- MAILPRESS [NOTICE] - Connected (MP_Mail)
+2013-09-12 15:48:57 000000 -- MAILPRESS [NOTICE] - :::: MAIL SAVED ::::
+2013-09-12 15:48:57 000000 --  **** End   logging **** mp_mail *** level : 8191 **** status : TRUE 

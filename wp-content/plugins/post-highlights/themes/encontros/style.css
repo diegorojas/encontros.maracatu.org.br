@@ -1,0 +1,160 @@
+#posthighlights_container {
+    font-family: Arial, Helvetica, Verdana, Sans-serif;
+}
+
+/* 
+Lets keep loading process beautiful */
+
+#posthighlights_container .ph_post div{
+    display: none;
+}
+
+
+#posthighlights_container {
+    padding: 15px 0 0 0px;
+    position: relative;
+    text-align: center;
+	margin-left: 10px;
+}
+
+#posthighlights_container .ph-canvas {
+    /* background-position: center center; */
+    position: absolute !important;
+    left: 0px !important;
+}
+
+#posthighlights_container .ph_picture {
+    position: absolute;
+	display: none;
+}
+
+#posthighlights_container #ph-nav-background {
+    bottom: 0px !important;
+    filter: alpha(opacity=70);
+    height: 28px;
+    opacity: 0.7;
+    left: 0px !important;
+    position: absolute !important;
+    right: 0 !important;
+    width: 100%;
+    z-index: 2;
+}
+
+#posthighlights_container #ph-next-nav, 
+#posthighlights_container #ph-prev-nav  {
+    color: white;
+    cursor: pointer;
+    font-size: 12px;
+    font-weight: bold;
+    height: 24px;
+    padding: 0;
+    position: absolute !important;
+    width: 80px;
+    z-index: 3;
+}
+
+#posthighlights_container #ph-next-nav {
+    background: url(arrow-right.gif) no-repeat scroll 5px 0 #F7941D;
+    top: 150px;
+    padding: 2px;
+	border-radius: 4px 4px 4px 4px;
+    right: -30px;
+    text-align: left;
+	text-indent: -99999px;
+	width: 20px;
+
+}
+
+#posthighlights_container #ph-prev-nav {
+    background: url(arrow-left.gif) no-repeat scroll 4px 0 #F7941D;
+    top: 150px;
+	border-radius: 4px 4px 4px 4px;
+    left: -30px;
+    padding: 2px;
+    text-align: left;
+    text-indent: -99999px;
+	width: 20px;
+	}
+
+#ph-description-background, 
+#posthighlights_container .ph_content{
+    background-color: #567F2A;
+    height: 155px;
+    left: 0 !important;
+    margin-left: 60px;
+    margin-top: 105px;
+    position: absolute !important;
+    text-align: left;
+    width: 50%;
+    z-index: 2;
+}
+
+.ph_content  {
+	margin: 0;
+	padding:0;
+
+}
+#posthighlights_container .ph_content a {
+    color: white;
+    font-size: 1.4em;
+    font-weight: normal;
+    text-decoration: none;
+	font-family: 'Dosis',sans-serif;
+	z-index: 3;
+}
+
+#posthighlights_container .ph_content p {
+    color: white;
+    font-size: 12px;
+	z-index: 3;
+} 
+
+#ph-description-background {
+    filter: alpha(opacity=90);
+    opacity: 0.9;
+    z-index: 1;
+}
+
+.ph_content h2{
+    margin: 20px 25px 7px !important;
+}
+
+ .ph_content p {
+    margin: 7px 25px !important;
+}
+
+#ph-numeric-nav { 
+    bottom: -30px !important;
+    font-size: 12px;
+    left: 90% !important;
+    position: absolute;
+    text-align: center;
+    z-index: 3;
+}
+
+#ph-numeric-nav ul { 
+    display: inline; 
+    margin: 0; 
+    padding: 0; 
+}
+
+#ph-numeric-nav ul li { 
+    cursor: pointer; 
+    display: inline;
+    padding: 5px 7px;
+    
+}
+
+#ph-numeric-nav ul li.current { 
+    background: #f7941d;
+}
+
+#ph-numeric-nav ul li a { 
+    color: white;
+	font-family: 'Dosis',sans-serif;
+	font-size: 1.2em;
+}
+
+#ph-numeric-nav ul li.current a {
+    color: white;
+}

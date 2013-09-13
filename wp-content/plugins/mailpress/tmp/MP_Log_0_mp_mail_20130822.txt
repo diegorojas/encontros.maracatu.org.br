@@ -1,0 +1,201 @@
+
+2013-08-22 10:57:59 000000 --  **** Start logging **** mp_mail *** level : 8191 **** (5.3) **** /wp-comments-post.php?for=jetpack
+2013-08-22 10:57:59 000000 --  **** Purged log file **** /home2/maracatu/public_html/encontros/wp-content/plugins/mailpress/tmp/MP_Log_0_mp_mail_20130226.txt
+2013-08-22 10:58:00 000000 -- MAILPRESS [NOTICE] - :::: external recipient ::::
+2013-08-22 10:58:00 000000 -- MAILPRESS [NOTICE] - Missing template : >> default.php << Folder : /home2/maracatu/public_html/encontros/wp-content/plugins/mailpress/mp-content/themes/MaracatuMail/ 
+2013-08-22 10:58:00 000000 -- MAILPRESS [NOTICE] - Missing template : >> head.php << Folder : /home2/maracatu/public_html/encontros/wp-content/plugins/mailpress/mp-content/themes/MaracatuMail/ 
+2013-08-22 10:58:00 000000 --  
+
+ ------------------- start of mail -------------------   
+ From : Equipe Encontros <encontros@maracatu.org.br>  
+ To   : naomi <diegof.rojas@gmail.com>  
+ Subject : [Encontros - 2013] Moderar: "Maracatu Baque da Mata - Nova Iguaçu | RJ" 
+   ------------------- plaintext -------------------  
+ Encontros - 2013
+Maracatu Sem Fronteiras
+
+* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ *
+! [Encontros - 2013] Moderar: "Maracatu Baque da Mata - Nova Iguaçu | RJ" !
+* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ *
+22 de agosto de 2013
+
+
+
+	Um novo comentário sobre o post “Maracatu Baque da Mata – Nova Iguaçu RJ” está esperando sua aprovação.
+http://encontros.maracatu.org.br/grupos/maracatu-baque-da-mata-nova-iguacu-rj/ 
+
+	Autor: Olivia (IP: 186.221.75.116 , badd4b74.virtua.com.br)
+Email: oliviarangel@msn.com
+URL : 
+Whois : http://ws.arin.net/cgi-bin/whois.pl?queryinput=186.221.75.116
+Comentário: 
+
+	Sou professora de uma escola municipal em Nova Iguaçu, estamos planejando uma ação a ser apresentada na Conferência do Meio Ambiente em Tinguá. Tivemos a ideia de mobilizar as crianças.e os responsáveis em um mutirão. Vocês poderiam nos auxiliar? Já que o trabalho de vocês é difundir a culltura local aliando a arte às questões sociais e ambientais da região? 
+
+	Aprovar: http://encontros.maracatu.org.br/wp-admin/comment.php?action=approve&c=59
+Mover para a Lixeira: http://encontros.maracatu.org.br/wp-admin/comment.php?action=trash&c=59
+Marcar como spam: http://encontros.maracatu.org.br/wp-admin/comment.php?action=spam&c=59
+No momento, 3 comentários aguardam aprovação. Visite o painel de moderação:
+http://encontros.maracatu.org.br/wp-admin/edit-comments.php?comment_status=moderated 
+
+							this mail is brought to you by MailPress 
+
+ ------------------- text/html -------------------  
+ <body>
+		<div style="color:#000;font-family: Arial, san-serif;background:none repeat scroll 0 0 #f0f0f0;">
+			<div style="margin:0 auto;border:none;padding:0;width:700px;background:none repeat scroll 0 0 #fff;">
+				<table style="background: none;width:100%;height:60px;">	
+					<tr>
+						<td style="text-align:left;">
+							<img src='logo_encontros_385px.png' style="background:#78aa42;border:none;padding: 20px 165px 20px 150px;;" alt='img' />
+						</td>
+					</tr>					<tr>						<td style="padding:0;margin:0;border:none;background:#f39200;font-family: Arial, san-serif;height:45px;width:100%;color:#555;font-size:30px;text-align:right;">						</td>					</tr>
+				</table>
+				<div  style="margin:0;padding:20px 10px;border:0;text-align:left;width:100%;">
+					<div  style="margin-left:35px;padding:0;border:0;width:70%;float:left;line-height: 1.2em;font-size:0.9em;">
+<!-- end header --><p>Um novo comentário sobre o post &#8220;Maracatu Baque da Mata &#8211; Nova Iguaçu | RJ&#8221; está esperando sua aprovação.<br />
+http://encontros.maracatu.org.br/grupos/maracatu-baque-da-mata-nova-iguacu-rj/</p>
+<p>Autor: Olivia (IP: 186.221.75.116 , badd4b74.virtua.com.br)<br />
+Email: oliviarangel@msn.com<br />
+URL    : <br />
+Whois  : http://ws.arin.net/cgi-bin/whois.pl?queryinput=186.221.75.116<br />
+Comentário:</p>
+<p>Sou professora de uma escola municipal em Nova Iguaçu, estamos planejando uma ação a ser apresentada na Conferência do Meio Ambiente em Tinguá.  Tivemos a ideia de mobilizar as crianças.e os responsáveis em um mutirão. Vocês poderiam nos auxiliar?  Já que o trabalho de vocês é difundir a culltura local  aliando a arte às questões sociais e ambientais da região?</p>
+<p>Aprovar: http://encontros.maracatu.org.br/wp-admin/comment.php?action=approve&#038;c=59<br />
+Mover para a Lixeira: http://encontros.maracatu.org.br/wp-admin/comment.php?action=trash&#038;c=59<br />
+Marcar como spam: http://encontros.maracatu.org.br/wp-admin/comment.php?action=spam&#038;c=59<br />
+No momento, 3 comentários aguardam aprovação. Visite o painel de moderação:<br />
+http://encontros.maracatu.org.br/wp-admin/edit-comments.php?comment_status=moderated</p>
+<!-- start footer -->
+				</div>
+			</div>
+			<div style='clear:both;'></div>
+			<table style="margin:0;border-top:1px solid #DEDEDE;width:100%;">
+				<tr>	
+					<td style="font-family: Arial, san-serif;color:#2583AD;    padding: 10px 20px;font-size:10px;">
+						<b>
+							Enviado por encontros.maracatu.org.br
+						</b>
+					</td>
+					<td style="font-family: Arial, san-serif;color:#8c8c8c;font-size:12px;padding: 10px 20px;text-align:right;">
+						<b>
+							com MailPress
+						</b>
+					</td>	
+				</tr>
+			</table>
+		</div>
+		</div>
+	</body>
+</html> 
+
+ ------------------ end of mail ------------------  
+
+
+2013-08-22 10:58:00 000000 -- MAILPRESS [NOTICE] - Image found : wp-content/plugins/mailpress/mp-content/themes/MaracatuMail/images/logo_encontros_385px.png
+2013-08-22 10:58:00 000000 -- MAILPRESS [NOTICE] - Disconnecting from maracatu_encontros (MP_Mail)
+2013-08-22 10:58:00 000000 -- MAILPRESS [NOTICE] - Disconnected (MP_Mail)
+2013-08-22 10:58:01 000000 -- MAILPRESS [NOTICE] - Connecting to maracatu_encontros (MP_Mail)
+2013-08-22 10:58:01 000000 -- MAILPRESS [NOTICE] - Connected (MP_Mail)
+2013-08-22 10:58:01 000000 -- MAILPRESS [NOTICE] - :::: MAIL SAVED ::::
+2013-08-22 10:58:01 000000 --  **** End   logging **** mp_mail *** level : 8191 **** status : TRUE 
+
+2013-08-22 10:58:01 000000 --  **** Start logging **** mp_mail *** level : 8191 **** (5.3) **** /wp-comments-post.php?for=jetpack
+2013-08-22 10:58:01 000000 -- MAILPRESS [NOTICE] - :::: external recipient ::::
+2013-08-22 10:58:01 000000 -- MAILPRESS [NOTICE] - Missing template : >> default.php << Folder : /home2/maracatu/public_html/encontros/wp-content/plugins/mailpress/mp-content/themes/MaracatuMail/ 
+2013-08-22 10:58:01 000000 -- MAILPRESS [NOTICE] - Missing template : >> head.php << Folder : /home2/maracatu/public_html/encontros/wp-content/plugins/mailpress/mp-content/themes/MaracatuMail/ 
+2013-08-22 10:58:01 000000 --  
+
+ ------------------- start of mail -------------------   
+ From : Equipe Encontros <encontros@maracatu.org.br>  
+ To   : naomi <naomimundy@hotmail.com>  
+ Subject : [Encontros - 2013] Moderar: "Maracatu Baque da Mata - Nova Iguaçu | RJ" 
+   ------------------- plaintext -------------------  
+ Encontros - 2013
+Maracatu Sem Fronteiras
+
+* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ *
+! [Encontros - 2013] Moderar: "Maracatu Baque da Mata - Nova Iguaçu | RJ" !
+* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ *
+22 de agosto de 2013
+
+
+
+	Um novo comentário sobre o post “Maracatu Baque da Mata – Nova Iguaçu RJ” está esperando sua aprovação.
+http://encontros.maracatu.org.br/grupos/maracatu-baque-da-mata-nova-iguacu-rj/ 
+
+	Autor: Olivia (IP: 186.221.75.116 , badd4b74.virtua.com.br)
+Email: oliviarangel@msn.com
+URL : 
+Whois : http://ws.arin.net/cgi-bin/whois.pl?queryinput=186.221.75.116
+Comentário: 
+
+	Sou professora de uma escola municipal em Nova Iguaçu, estamos planejando uma ação a ser apresentada na Conferência do Meio Ambiente em Tinguá. Tivemos a ideia de mobilizar as crianças.e os responsáveis em um mutirão. Vocês poderiam nos auxiliar? Já que o trabalho de vocês é difundir a culltura local aliando a arte às questões sociais e ambientais da região? 
+
+	Aprovar: http://encontros.maracatu.org.br/wp-admin/comment.php?action=approve&c=59
+Mover para a Lixeira: http://encontros.maracatu.org.br/wp-admin/comment.php?action=trash&c=59
+Marcar como spam: http://encontros.maracatu.org.br/wp-admin/comment.php?action=spam&c=59
+No momento, 3 comentários aguardam aprovação. Visite o painel de moderação:
+http://encontros.maracatu.org.br/wp-admin/edit-comments.php?comment_status=moderated 
+
+							this mail is brought to you by MailPress 
+
+ ------------------- text/html -------------------  
+ <body>
+		<div style="color:#000;font-family: Arial, san-serif;background:none repeat scroll 0 0 #f0f0f0;">
+			<div style="margin:0 auto;border:none;padding:0;width:700px;background:none repeat scroll 0 0 #fff;">
+				<table style="background: none;width:100%;height:60px;">	
+					<tr>
+						<td style="text-align:left;">
+							<img src='logo_encontros_385px.png' style="background:#78aa42;border:none;padding: 20px 165px 20px 150px;;" alt='img' />
+						</td>
+					</tr>					<tr>						<td style="padding:0;margin:0;border:none;background:#f39200;font-family: Arial, san-serif;height:45px;width:100%;color:#555;font-size:30px;text-align:right;">						</td>					</tr>
+				</table>
+				<div  style="margin:0;padding:20px 10px;border:0;text-align:left;width:100%;">
+					<div  style="margin-left:35px;padding:0;border:0;width:70%;float:left;line-height: 1.2em;font-size:0.9em;">
+<!-- end header --><p>Um novo comentário sobre o post &#8220;Maracatu Baque da Mata &#8211; Nova Iguaçu | RJ&#8221; está esperando sua aprovação.<br />
+http://encontros.maracatu.org.br/grupos/maracatu-baque-da-mata-nova-iguacu-rj/</p>
+<p>Autor: Olivia (IP: 186.221.75.116 , badd4b74.virtua.com.br)<br />
+Email: oliviarangel@msn.com<br />
+URL    : <br />
+Whois  : http://ws.arin.net/cgi-bin/whois.pl?queryinput=186.221.75.116<br />
+Comentário:</p>
+<p>Sou professora de uma escola municipal em Nova Iguaçu, estamos planejando uma ação a ser apresentada na Conferência do Meio Ambiente em Tinguá.  Tivemos a ideia de mobilizar as crianças.e os responsáveis em um mutirão. Vocês poderiam nos auxiliar?  Já que o trabalho de vocês é difundir a culltura local  aliando a arte às questões sociais e ambientais da região?</p>
+<p>Aprovar: http://encontros.maracatu.org.br/wp-admin/comment.php?action=approve&#038;c=59<br />
+Mover para a Lixeira: http://encontros.maracatu.org.br/wp-admin/comment.php?action=trash&#038;c=59<br />
+Marcar como spam: http://encontros.maracatu.org.br/wp-admin/comment.php?action=spam&#038;c=59<br />
+No momento, 3 comentários aguardam aprovação. Visite o painel de moderação:<br />
+http://encontros.maracatu.org.br/wp-admin/edit-comments.php?comment_status=moderated</p>
+<!-- start footer -->
+				</div>
+			</div>
+			<div style='clear:both;'></div>
+			<table style="margin:0;border-top:1px solid #DEDEDE;width:100%;">
+				<tr>	
+					<td style="font-family: Arial, san-serif;color:#2583AD;    padding: 10px 20px;font-size:10px;">
+						<b>
+							Enviado por encontros.maracatu.org.br
+						</b>
+					</td>
+					<td style="font-family: Arial, san-serif;color:#8c8c8c;font-size:12px;padding: 10px 20px;text-align:right;">
+						<b>
+							com MailPress
+						</b>
+					</td>	
+				</tr>
+			</table>
+		</div>
+		</div>
+	</body>
+</html> 
+
+ ------------------ end of mail ------------------  
+
+
+2013-08-22 10:58:01 000000 -- MAILPRESS [NOTICE] - Image found : wp-content/plugins/mailpress/mp-content/themes/MaracatuMail/images/logo_encontros_385px.png
+2013-08-22 10:58:01 000000 -- MAILPRESS [NOTICE] - Disconnecting from maracatu_encontros (MP_Mail)
+2013-08-22 10:58:01 000000 -- MAILPRESS [NOTICE] - Disconnected (MP_Mail)
+2013-08-22 10:58:01 000000 -- MAILPRESS [NOTICE] - Connecting to maracatu_encontros (MP_Mail)
+2013-08-22 10:58:01 000000 -- MAILPRESS [NOTICE] - Connected (MP_Mail)
+2013-08-22 10:58:01 000000 -- MAILPRESS [NOTICE] - :::: MAIL SAVED ::::
+2013-08-22 10:58:01 000000 --  **** End   logging **** mp_mail *** level : 8191 **** status : TRUE 

@@ -1,0 +1,15 @@
+/*
+Theme Name: Tema MaracatuMail
+Theme URI: 
+Description: Tema de mailing do encontros.maracatu.org.br
+Version: 0.1
+Author: Maracatu.org.brTemplate: _template
+*/
+body {
+	line-height:1.3em;
+	font-size:0.85em;
+}p {	line-height:1.3em;	font-size:0.85em;}#box-laranja {background-color: #F39200;color: #FFFFFF;}#box-vermelho{background-color: #74210E;color: #FFFFFF;}#box-azul {background-color: #4E3F92;color: #FFFFFF;}#box-verde {background-color: #77AB40;color: #FFFFFF;}a{	color:#6D8C82;}
+
+a.more-link {
+	color:#6D8C82;
+}

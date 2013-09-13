@@ -1,0 +1,209 @@
+
+2013-04-10 13:58:32 000000 --  **** Start logging **** mp_mail *** level : 8191 **** (5.3) **** /contato/
+2013-04-10 13:58:32 000000 --  **** Purged log file **** /home2/maracatu/public_html/encontros/wp-content/plugins/mailpress/tmp/MP_Log_0_mp_mail_20121216.txt
+2013-04-10 13:58:32 000000 -- MAILPRESS [ERROR] - problems with recipients & replacements
+2013-04-10 13:58:32 000000 --  **** End   logging **** mp_mail *** level : 8191 **** status : FALSE 
+
+2013-04-10 13:58:39 000000 --  **** Start logging **** mp_mail *** level : 8191 **** (5.3) **** /contato/
+2013-04-10 13:58:39 000000 -- MAILPRESS [ERROR] - problems with recipients & replacements
+2013-04-10 13:58:39 000000 --  **** End   logging **** mp_mail *** level : 8191 **** status : FALSE 
+
+2013-04-10 16:48:57 000000 --  **** Start logging **** mp_mail *** level : 8191 **** (5.3) **** /wp-comments-post.php?for=jetpack
+2013-04-10 16:48:57 000000 -- MAILPRESS [NOTICE] - :::: external recipient ::::
+2013-04-10 16:48:57 000000 -- MAILPRESS [NOTICE] - Missing template : >> default.php << Folder : /home2/maracatu/public_html/encontros/wp-content/plugins/mailpress/mp-content/themes/MaracatuMail/ 
+2013-04-10 16:48:57 000000 -- MAILPRESS [NOTICE] - Missing template : >> head.php << Folder : /home2/maracatu/public_html/encontros/wp-content/plugins/mailpress/mp-content/themes/MaracatuMail/ 
+2013-04-10 16:48:58 000000 --  
+
+ ------------------- start of mail -------------------   
+ From : Equipe Encontros <encontros@maracatu.org.br>  
+ To   : encontros <diegof.rojas@gmail.com>  
+ Subject : [Encontros - 2012] Moderar: "Construindo o Encontros 2013" 
+   ------------------- plaintext -------------------  
+ Encontros - 2012
+Maracatu Sem Fronteiras
+
+* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ *
+! [Encontros - 2012] Moderar: "Construindo o Encontros 2013" !
+* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ *
+10 de abril de 2013
+
+
+
+	Um novo comentário sobre o post “Construindo o Encontros 2013″ está esperando sua aprovação.
+http://encontros.maracatu.org.br/construindo-o-encontros-2013/ 
+
+	Autor: maui zanon (IP: 186.246.152.152 , 186246152152.user.veloxzone.com.br)
+Email: mauizanon@yahoo.com.br
+URL : 
+Whois : http://ws.arin.net/cgi-bin/whois.pl?queryinput=186.246.152.152
+Comentário: 
+
+	Acho que a água neste ano precisa ser mais barata. 
+
+	Aprovar: http://encontros.maracatu.org.br/wp-admin/comment.php?action=approve&c=57
+Mover para a Lixeira: http://encontros.maracatu.org.br/wp-admin/comment.php?action=trash&c=57
+Marcar como spam: http://encontros.maracatu.org.br/wp-admin/comment.php?action=spam&c=57
+No momento, 1 esperam aprovação. Visite o painel de moderação:
+http://encontros.maracatu.org.br/wp-admin/edit-comments.php?comment_status=moderated 
+
+							this mail is brought to you by MailPress 
+
+ ------------------- text/html -------------------  
+ <body>
+		<div style="color:#000;font-family: Arial, san-serif;background:none repeat scroll 0 0 #f0f0f0;">
+			<div style="margin:0 auto;border:none;padding:0;width:700px;background:none repeat scroll 0 0 #fff;">
+				<table style="background: none;width:100%;height:60px;">	
+					<tr>
+						<td style="text-align:left;">
+							<img src='logo_encontros_385px.png' style="background:#78aa42;border:none;padding: 20px 165px 20px 150px;;" alt='img' />
+						</td>
+					</tr>					<tr>						<td style="padding:0;margin:0;border:none;background:#f39200;font-family: Arial, san-serif;height:45px;width:100%;color:#555;font-size:30px;text-align:right;">						</td>					</tr>
+				</table>
+				<div  style="margin:0;padding:20px 10px;border:0;text-align:left;width:100%;">
+					<div  style="margin-left:35px;padding:0;border:0;width:70%;float:left;line-height: 1.2em;font-size:0.9em;">
+<!-- end header --><p>Um novo comentário sobre o post &#8220;Construindo o Encontros 2013&#8243; está esperando sua aprovação.<br />
+http://encontros.maracatu.org.br/construindo-o-encontros-2013/</p>
+<p>Autor: maui zanon (IP: 186.246.152.152 , 186246152152.user.veloxzone.com.br)<br />
+Email: mauizanon@yahoo.com.br<br />
+URL    : <br />
+Whois  : http://ws.arin.net/cgi-bin/whois.pl?queryinput=186.246.152.152<br />
+Comentário:</p>
+<p>Acho que a água neste ano precisa ser mais barata.</p>
+<p>Aprovar: http://encontros.maracatu.org.br/wp-admin/comment.php?action=approve&#038;c=57<br />
+Mover para a Lixeira: http://encontros.maracatu.org.br/wp-admin/comment.php?action=trash&#038;c=57<br />
+Marcar como spam: http://encontros.maracatu.org.br/wp-admin/comment.php?action=spam&#038;c=57<br />
+No momento, 1 esperam aprovação. Visite o painel de moderação:<br />
+http://encontros.maracatu.org.br/wp-admin/edit-comments.php?comment_status=moderated</p>
+<!-- start footer -->
+				</div>
+			</div>
+			<div style='clear:both;'></div>
+			<table style="margin:0;border-top:1px solid #DEDEDE;width:100%;">
+				<tr>	
+					<td style="font-family: Arial, san-serif;color:#2583AD;    padding: 10px 20px;font-size:10px;">
+						<b>
+							Enviado por encontros.maracatu.org.br
+						</b>
+					</td>
+					<td style="font-family: Arial, san-serif;color:#8c8c8c;font-size:12px;padding: 10px 20px;text-align:right;">
+						<b>
+							com MailPress
+						</b>
+					</td>	
+				</tr>
+			</table>
+		</div>
+		</div>
+	</body>
+</html> 
+
+ ------------------ end of mail ------------------  
+
+
+2013-04-10 16:48:58 000000 -- MAILPRESS [NOTICE] - Image found : wp-content/plugins/mailpress/mp-content/themes/MaracatuMail/images/logo_encontros_385px.png
+2013-04-10 16:48:58 000000 -- MAILPRESS [NOTICE] - Disconnecting from maracatu_encontros (MP_Mail)
+2013-04-10 16:48:58 000000 -- MAILPRESS [NOTICE] - Disconnected (MP_Mail)
+2013-04-10 16:48:58 000000 -- MAILPRESS [NOTICE] - Connecting to maracatu_encontros (MP_Mail)
+2013-04-10 16:48:58 000000 -- MAILPRESS [NOTICE] - Connected (MP_Mail)
+2013-04-10 16:48:58 000000 -- MAILPRESS [NOTICE] - :::: MAIL SAVED ::::
+2013-04-10 16:48:58 000000 --  **** End   logging **** mp_mail *** level : 8191 **** status : TRUE 
+
+2013-04-10 16:48:59 000000 --  **** Start logging **** mp_mail *** level : 8191 **** (5.3) **** /wp-comments-post.php?for=jetpack
+2013-04-10 16:48:59 000000 -- MAILPRESS [NOTICE] - :::: external recipient ::::
+2013-04-10 16:48:59 000000 -- MAILPRESS [NOTICE] - Missing template : >> default.php << Folder : /home2/maracatu/public_html/encontros/wp-content/plugins/mailpress/mp-content/themes/MaracatuMail/ 
+2013-04-10 16:48:59 000000 -- MAILPRESS [NOTICE] - Missing template : >> head.php << Folder : /home2/maracatu/public_html/encontros/wp-content/plugins/mailpress/mp-content/themes/MaracatuMail/ 
+2013-04-10 16:48:59 000000 --  
+
+ ------------------- start of mail -------------------   
+ From : Equipe Encontros <encontros@maracatu.org.br>  
+ To   : encontros <organizacao.encontros2012.mbv@gmail.com>  
+ Subject : [Encontros - 2012] Moderar: "Construindo o Encontros 2013" 
+   ------------------- plaintext -------------------  
+ Encontros - 2012
+Maracatu Sem Fronteiras
+
+* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ *
+! [Encontros - 2012] Moderar: "Construindo o Encontros 2013" !
+* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ *
+10 de abril de 2013
+
+
+
+	Um novo comentário sobre o post “Construindo o Encontros 2013″ está esperando sua aprovação.
+http://encontros.maracatu.org.br/construindo-o-encontros-2013/ 
+
+	Autor: maui zanon (IP: 186.246.152.152 , 186246152152.user.veloxzone.com.br)
+Email: mauizanon@yahoo.com.br
+URL : 
+Whois : http://ws.arin.net/cgi-bin/whois.pl?queryinput=186.246.152.152
+Comentário: 
+
+	Acho que a água neste ano precisa ser mais barata. 
+
+	Aprovar: http://encontros.maracatu.org.br/wp-admin/comment.php?action=approve&c=57
+Mover para a Lixeira: http://encontros.maracatu.org.br/wp-admin/comment.php?action=trash&c=57
+Marcar como spam: http://encontros.maracatu.org.br/wp-admin/comment.php?action=spam&c=57
+No momento, 1 esperam aprovação. Visite o painel de moderação:
+http://encontros.maracatu.org.br/wp-admin/edit-comments.php?comment_status=moderated 
+
+							this mail is brought to you by MailPress 
+
+ ------------------- text/html -------------------  
+ <body>
+		<div style="color:#000;font-family: Arial, san-serif;background:none repeat scroll 0 0 #f0f0f0;">
+			<div style="margin:0 auto;border:none;padding:0;width:700px;background:none repeat scroll 0 0 #fff;">
+				<table style="background: none;width:100%;height:60px;">	
+					<tr>
+						<td style="text-align:left;">
+							<img src='logo_encontros_385px.png' style="background:#78aa42;border:none;padding: 20px 165px 20px 150px;;" alt='img' />
+						</td>
+					</tr>					<tr>						<td style="padding:0;margin:0;border:none;background:#f39200;font-family: Arial, san-serif;height:45px;width:100%;color:#555;font-size:30px;text-align:right;">						</td>					</tr>
+				</table>
+				<div  style="margin:0;padding:20px 10px;border:0;text-align:left;width:100%;">
+					<div  style="margin-left:35px;padding:0;border:0;width:70%;float:left;line-height: 1.2em;font-size:0.9em;">
+<!-- end header --><p>Um novo comentário sobre o post &#8220;Construindo o Encontros 2013&#8243; está esperando sua aprovação.<br />
+http://encontros.maracatu.org.br/construindo-o-encontros-2013/</p>
+<p>Autor: maui zanon (IP: 186.246.152.152 , 186246152152.user.veloxzone.com.br)<br />
+Email: mauizanon@yahoo.com.br<br />
+URL    : <br />
+Whois  : http://ws.arin.net/cgi-bin/whois.pl?queryinput=186.246.152.152<br />
+Comentário:</p>
+<p>Acho que a água neste ano precisa ser mais barata.</p>
+<p>Aprovar: http://encontros.maracatu.org.br/wp-admin/comment.php?action=approve&#038;c=57<br />
+Mover para a Lixeira: http://encontros.maracatu.org.br/wp-admin/comment.php?action=trash&#038;c=57<br />
+Marcar como spam: http://encontros.maracatu.org.br/wp-admin/comment.php?action=spam&#038;c=57<br />
+No momento, 1 esperam aprovação. Visite o painel de moderação:<br />
+http://encontros.maracatu.org.br/wp-admin/edit-comments.php?comment_status=moderated</p>
+<!-- start footer -->
+				</div>
+			</div>
+			<div style='clear:both;'></div>
+			<table style="margin:0;border-top:1px solid #DEDEDE;width:100%;">
+				<tr>	
+					<td style="font-family: Arial, san-serif;color:#2583AD;    padding: 10px 20px;font-size:10px;">
+						<b>
+							Enviado por encontros.maracatu.org.br
+						</b>
+					</td>
+					<td style="font-family: Arial, san-serif;color:#8c8c8c;font-size:12px;padding: 10px 20px;text-align:right;">
+						<b>
+							com MailPress
+						</b>
+					</td>	
+				</tr>
+			</table>
+		</div>
+		</div>
+	</body>
+</html> 
+
+ ------------------ end of mail ------------------  
+
+
+2013-04-10 16:48:59 000000 -- MAILPRESS [NOTICE] - Image found : wp-content/plugins/mailpress/mp-content/themes/MaracatuMail/images/logo_encontros_385px.png
+2013-04-10 16:48:59 000000 -- MAILPRESS [NOTICE] - Disconnecting from maracatu_encontros (MP_Mail)
+2013-04-10 16:48:59 000000 -- MAILPRESS [NOTICE] - Disconnected (MP_Mail)
+2013-04-10 16:48:59 000000 -- MAILPRESS [NOTICE] - Connecting to maracatu_encontros (MP_Mail)
+2013-04-10 16:48:59 000000 -- MAILPRESS [NOTICE] - Connected (MP_Mail)
+2013-04-10 16:48:59 000000 -- MAILPRESS [NOTICE] - :::: MAIL SAVED ::::
+2013-04-10 16:48:59 000000 --  **** End   logging **** mp_mail *** level : 8191 **** status : TRUE 
