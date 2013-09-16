@@ -7,7 +7,7 @@
 				<table <?php $this->classes('nopmb htable htr'); ?>>	
 					<tr>
 						<td <?php $this->classes('nopmb txtleft'); ?>>
-							<img src='logo_encontros_385px.png' <?php $this->classes('logo'); ?> alt='img' />
+							<img src='logo_encontros2013_385px.png' <?php $this->classes('logo'); ?> alt='img' />
 						</td>
 					</tr>					<tr>						<td <?php $this->classes('hdate'); ?>>						</td>					</tr>
 				</table>
