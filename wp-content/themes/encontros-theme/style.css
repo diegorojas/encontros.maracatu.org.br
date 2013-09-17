@@ -4,7 +4,7 @@ Template: twentyten
 Theme URI: http://wordpress.org/
 Description: Tema do Site Encontros de Maracatu de Baque Virado
 Author: Maracatu.org.br
-Version: 0.1
+Version: 0.2
 License: GNU General Public License
 License URI: license.txt
 Tags: black, blue, white, two-columns, fixed-width, custom-header, custom-background, threaded-comments, sticky-post, translation-ready, microformats, rtl-language-support, editor-style, custom-menu
@@ -1176,7 +1176,7 @@ h3#reply-title {
 .widget-area a:active,
 .widget-area a:hover {
 	text-decoration: underline;
-	color: #d38a1d;
+	color: #FF921E;
 }
 .widget-area .entry-meta {
 	font-size: 11px;
