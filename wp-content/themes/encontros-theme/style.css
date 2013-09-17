@@ -92,10 +92,12 @@ margin: 0;
 #secondary {
 	float: right;
 	overflow: hidden;
-	width: 220px;
+	width: 235px;
 }
 #secondary {
 	clear: right;
+	overflow: hidden;
+	width: auto;
 }
 #footer {
 	clear: both;
@@ -350,8 +352,8 @@ textarea {
     font-style: normal;
     font-weight: bold;
     height: 87px;
-    margin: 26px 0 0 230px;
-    padding-top: 19px;
+    margin: 26px 0 0 20px;
+    padding-top: 20px;
     text-align: center;
     width: 220px;
 	}
@@ -1242,6 +1244,77 @@ h3#reply-title {
 #footer-widget-area {
 }
 
+/* ShortCodes */
+a.zilla-button,
+a.zilla-button:visited {
+	display: inline-block;
+	font-family: 'Dosis', Arial, sans-serif !important;
+	font-size: 1.3em;
+	color: #fff!important;
+	letter-spacing: 1px;
+	text-decoration: none!important;
+	text-align: center;
+	text-transform: uppercase;
+	outline: none;
+	line-height: 1em;
+	padding: 7px 13px!important;
+	cursor: pointer;
+	border: 1px solid #0d507a!important;
+	margin: 0 0.1em 1.5em 0!important;
+	vertical-align: middle;
+	background: #0c6fb1;
+	border: 1px solid #8A8A8A;
+	}
+	
+
+.zilla-toggle {
+	display: block;
+	background: #B2CC42;
+	cursor: pointer;
+	outline: none;
+	position: relative;
+	}
+	
+.zilla-toggle-title {
+	background: none repeat scroll 0 0 #F6921E !important;
+    color: #FFFFFF !important;
+    display: block;
+	font-family: 'Dosis', Arial, sans-serif !important;
+    font-size: 1.6em;
+    outline: medium none;
+    padding: 10px 10px 15px 35px;
+	text-transform: uppercase;
+	}
+
+.zilla-toggle-inner {
+	background: none repeat scroll 0 0 #F6921E !important;
+    color: #FFFFFF;
+	font-family: 'Dosis', Arial, sans-serif !important;
+    font-size: 1.2em;
+	}
+	
+
+.ui-accordion .ui-accordion-header .ui-icon {
+    margin-top: -6px;
+}
+
+.zilla-toggle span.ui-icon {
+    background: url("images/toggles/toggle-closed.png") no-repeat scroll 0 0 transparent;
+    height: 12px;
+    left: 10px;
+    position: absolute;
+    top: 24px !important;
+    width: 12px;
+}
+
+
+.zilla-tabs ul.zilla-nav li a {
+	font-family: 'Dosis', Arial, sans-serif !important;
+	border-radius: 0 0 !important;
+	color: #78AA42 !important;
+}
+
+	
 /* =Mobile Safari ( iPad, iPhone and iPod Touch )
 -------------------------------------------------------------- */
 

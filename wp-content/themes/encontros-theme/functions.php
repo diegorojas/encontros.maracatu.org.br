@@ -54,11 +54,6 @@ return $output;
 		)
 		);
 		}
-
-// Remove a barra de atualização do Admin
- add_filter( 'pre_site_transient_update_core', create_function( '$a', "return null;" ) );
- 
- 
  
 // Personalizando o wp-login.php
 /* function meu_logo_login()

@@ -102,18 +102,19 @@
 				<div class="skip-link screen-reader-text"><a href="#content" title="<?php esc_attr_e( 'Skip to content', 'twentyten' ); ?>"><?php _e( 'Skip to content', 'twentyten' ); ?></a></div>
 				<?php /* Our navigation menu.  If one isn't filled out, wp_nav_menu falls back to wp_page_menu.  The menu assiged to the primary position is the one used.  If none is assigned, the menu with the lowest ID is used.  */ ?>
 				<?php wp_nav_menu( array( 'container_class' => 'menu-header', 'theme_location' => 'primary' ) ); ?>
-			</div><!-- #access -->
+				</div>
+				<!-- #access -->
 			<div id="cabecalho-sup-dir">
 			<div id="site-description" class="xilosa"><?php bloginfo( 'description' ); ?></div>
 				<div id="infos-evento">
 				<div id="data">
-				2, 3 E 4<br />
+				15, 16 e 17<br />
 				Novembro<br />
-				2012
+				2013
 				</div>
 				<div id="local">
-				S&atilde;o Paulo<br />
-				Serra Negra
+				Rio de Janeiro<br />
+				Paraty
 				
 				</div>
 				</div>

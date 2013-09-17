@@ -111,7 +111,11 @@ a:hover {
 
 
 .widget-area ul li {
-	margin-bottom: 5px;
+	margin-bottom: 15px;
+}
+
+.widget-container {
+margin-bottom: 20px;
 }
 
 
@@ -202,8 +206,8 @@ background: none repeat scroll 0 0 #78AA42;
     font-size: 1.2em;
 	margin: 36px 0 0 5px;
     text-transform: uppercase;
-    width: 250px;
-	display: none;
+    width: 235px;
+	display: block;
 }
 
 #data {
@@ -216,7 +220,7 @@ background: none repeat scroll 0 0 #78AA42;
 
 #local {
 	float: left;
-	width: 100px;
+	width: 110px;
 	text-align: left;
 	border-left: 1px solid #FFF;
 	height: 50px;
