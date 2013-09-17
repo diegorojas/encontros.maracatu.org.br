@@ -13,7 +13,7 @@
  * @since Twenty Ten 1.0
  */
 
-get_header('home'); ?>
+get_header(); ?>
 
 		<div id="container">
 			<div id="content" role="main">
