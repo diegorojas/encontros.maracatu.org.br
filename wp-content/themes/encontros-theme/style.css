@@ -461,6 +461,7 @@ div.menu li {
 #content {
 	margin-bottom: 36px;
 	margin-left: 40px;
+	overflow: hidden;
 }
 #content,
 #content input,

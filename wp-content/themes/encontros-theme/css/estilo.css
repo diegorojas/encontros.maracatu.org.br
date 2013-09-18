@@ -131,7 +131,7 @@ margin-bottom: 20px;
 
 #content.home {
 margin: 0 0 0 40px;
-
+overflow: visible;
 }
 
 #cabecalho {
